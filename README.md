@@ -20,3 +20,12 @@ Implementações referentes aos exercícios de Estruturas de Dados I sobre ponte
 9. Crie um programa em C que copie um vetor para outro vetor. (dica - utilize função e ponteiro)
 
 10. Com a mesma lógica da questão anterior, faça isso com uma string.
+
+11. Crie um programa em C que declare uma matriz 100x100 de inteiros. Você deve inicializar a matriz com zeros usando ponteiros para endereçar seus elementos. Preencha depois a matriz com os números de 1 a 10000, também usando ponteiros.
+
+12. Crie um programa em C que contenha duas variáveis inteiras. Compare seus endereçs e exiba o maior endereço.
+
+13. Crie um programa em C que  contenha uma matriz de float contendo 3 linhas e 3 colunas. Imprima o endereço de cada posição dessa matriz.
+
+14.  Crie um programa em C que dado um número real passado como parâmetro, retorne a parte inteira e a parte fracionária deste número. Escreva um programa que chama esta função.
+Protótipo: void frac(float num, int* inteiro, float* frac);
